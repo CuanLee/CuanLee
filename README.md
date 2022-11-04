@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=CuanLee&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="480" height="480" frameBorder="0"/>
+</div>
+
 <!--- 👋 Hi, I’m @CuanLee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
