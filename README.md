@@ -11,6 +11,10 @@
   </a>
 </div>
 
+<div id="viewsCounter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=CuanLee&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--- 👋 Hi, I’m @CuanLee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
